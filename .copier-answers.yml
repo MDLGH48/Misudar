@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v2025.06.2
+_src_path: https://github.com/rmorshea/python-copier-template
+author_email: mike.lev.w48@gmail.com
+author_name: MikeLev
+project_description: Misudar is a pip installable shim for the Mise tool installation
+    and other utilities
+project_title: Misudar
+python_package_name: misudar
+python_version_range: '>=3.11'
+repo_url: https://github.com/MDLGH48/Misudar
