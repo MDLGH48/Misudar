@@ -26,6 +26,8 @@ dependencies = [
     "hatch>=1.14.1",
     "sh>=2.2.2",
 ]
+[project.scripts]
+misu = "misudar.cli.main:run"
 
 [project.urls]
 Source = "https://github.com/MDLGH48/Misudar"
